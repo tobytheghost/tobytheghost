@@ -1,4 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Toby! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### I'm a Front-End Engineer and currently hold the position of Client Engineer at Coveo (prev. Qubit)
+
+I'm currently ramping up my knowledge of Typescript, see my latest project here: https://github.com/tobytheghost/deck-builder-project
 
 My Work Profile: [@toby-qubit](https://github.com/toby-qubit)
 
