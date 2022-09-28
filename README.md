@@ -2,7 +2,7 @@
 
 ### I'm a Front-End Engineer working as a Senior Software Engineer at PensionBee
 
-Check out my portfolio site: [http://tobygates.co.uk/](http://tobygates.co.uk/)
+Check out my portfolio site: [https://tobygates.co.uk/](https://tobygates.co.uk/)
 
 **Languages and Tools:**  
 
