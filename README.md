@@ -1,6 +1,6 @@
 # Hey, I'm Toby! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Full-Stack Engineer and currently hold the position of Senior Software Engineer at PensionBee
+### I'm a Full-Stack Engineer
 
 **Languages and Tools:**  
 
