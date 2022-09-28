@@ -1,6 +1,8 @@
 # Hey, I'm Toby! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Full-Stack Engineer
+### I'm a Front-End Engineer working as a Senior Software Engineer at PensionBee
+
+Check out my portfolio site: [http://tobygates.co.uk/](http://tobygates.co.uk/)
 
 **Languages and Tools:**  
 
